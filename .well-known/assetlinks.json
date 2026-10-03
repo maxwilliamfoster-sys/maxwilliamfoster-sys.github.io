@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.maxwilliamfoster.logbook",
+        "sha256_cert_fingerprints": ["A0:27:97:D3:36:6E:32:4E:C5:9D:2B:A4:FF:24:A0:A2:6F:7E:33:45:1B:52:6E:A0:DC:BA:78:AA:55:4D:73:ED"]
+      }
+    }]
